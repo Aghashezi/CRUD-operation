@@ -1,0 +1,62 @@
+/* 
+
+#recipeList {
+    list-style: none;
+    padding: 0;
+}
+
+.recipe {
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+#recipeForm {
+    display: none;
+    margin: 20px 0;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+
+
+
+
+#recipeListContainer {
+    margin-top: 20px;
+}
+
+button {
+    margin-right: 10px; /* Adjust the margin as needed */
+    body {
+        font-family: Arial, sans-serif;
+        margin: 20px;
+    }
+    
+    #recipeList {
+        list-style: none;
+        padding: 0;
+    }
+    
+    .recipe {
+        margin: 10px 0;
+        padding: 10px;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+    }
+    
+    #recipeForm {
+        display: none;
+    }
+    
+    #recipeListContainer {
+        margin-top: 20px;
+    }
+    
+    /* Adjust as needed */
+    button {
+        margin-right: 10px;
+    }
+    
